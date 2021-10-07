@@ -1,5 +1,9 @@
 # NervOpt (nervos-hackathon-2)
 
+Nervopt Contract has one active call option on Ether at each moment, with fixed expiries on the 15th of March, June, September and December. Each strike will be set as the spot price 115% on the expiry of the previous option.
+
+All options are cash settled in ckDAI and the collateral amount is also kept in ckDAI
+
 ## Contracts
 
 ```
