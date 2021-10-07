@@ -4,6 +4,8 @@ Nervopt allows the trading of call options on ckETH. The contract has one active
 
 All options are cash settled in ckDAI and the collateral amount is also kept in ckDAI
 
+<img src="screen.png">
+
 ## Contracts
 
 ```
